@@ -32,6 +32,8 @@ bashgit clone https://github.com/Tejas1712/automatic-question-tagging.git
 cd automatic-question-tagging
 
 Download Data :- https://drive.google.com/drive/folders/15_7lN5t6IZu76_4Y1pSVo4ecVnGHKZ-C?usp=drive_link
+
+
 Install dependencies
 
 bashpip install pandas numpy scikit-learn nltk beautifulsoup4 matplotlib seaborn scipy
